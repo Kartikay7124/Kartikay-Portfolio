@@ -16,7 +16,10 @@ Key Features:
 </br>
 • Contact Me: Connect easily via the integrated contact form and social media links.
 </br>
+</br>
 Whether you're a recruiter, fellow developer, or just curious about what I can do, this portfolio is designed to impress. Check it out live here (https://kartikaysharma.netlify.app/)!
+</br>
+</br>
 
 ![Img 3](https://github.com/Kartikay7124/Kartikay-Portfolio/assets/102504679/c3572c66-5342-4362-ae00-428066a6b035)
 ![Img 7](https://github.com/Kartikay7124/Kartikay-Portfolio/assets/102504679/233895e9-9193-40ea-878f-54e1f27d7cec)
